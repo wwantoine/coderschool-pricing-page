@@ -1,0 +1,50 @@
+.border-box{
+    border: 1px solid orange;
+}
+
+.red {
+    color: #cd4541;
+}
+
+.btn-primary {
+    border: 0px;
+    color: white;
+    background-color: #cd4541;
+  }
+
+.navbar-nav .nav-item {
+    margin-left: 15px;
+}
+
+section {
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 800px;
+}
+
+.card {
+    margin-bottom: 25px;
+    box-shadow: 0 10px 40px rgba(59, 43, 91, 0.3);
+}
+
+section:nth-child(odd) {
+    background-color: #e9ebee;
+}
+
+.img-background {
+    background-image: url(https://cs-pricing-page.netlify.app/img/banner.jpg);
+}
+
+.subtext{
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+.typewrite {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
