@@ -49,7 +49,7 @@ section:nth-child(odd) {
     text-align: center;
 }
 
-footer{
+.main-footer {
     height: 3em;
     display: flex;
     align-items: center;
