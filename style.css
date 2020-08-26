@@ -48,3 +48,10 @@ section:nth-child(odd) {
     font-weight: bold;
     text-align: center;
 }
+
+footer{
+    height: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
